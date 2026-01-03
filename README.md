@@ -1,4 +1,4 @@
-# 💫 About Me:
+# I am Raman Bonde
 I am a Master’s student in Electromobility at FAU,  with a strong background in <br>automobile engineering and a passion for sustainable technologies. <br>My experience spans mechanical design, full-stack software development,<br> and I am now actively learning C programming and embedded systems for edge AI and smart devices.<br>I am currently working on projects involving machine learning on embedded hardware, including my Master’s thesis on a tabletop device that detects stress from voice in real time and suggests breathing exercises, <br>using Librosa for audio processing and deploying quantized models on the Seeed Studio Grove Vision AI V2 board. <br>My goal is to become a software and embedded systems developer in the automotive industry, building intelligent and efficient real-world systems.
 
 
